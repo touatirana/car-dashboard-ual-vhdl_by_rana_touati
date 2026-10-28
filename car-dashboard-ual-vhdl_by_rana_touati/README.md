@@ -10,8 +10,8 @@
 
 | | |
 |---|---|
-| Author | `<your name>` |
-| Institution | `<your school>` |
+| Author | `Touati Rana` |
+| Institution | `Higher School of Communication of Tunis` |
 | Academic year | 2025-2026 |
 | Development period | 30 January 2026 to 27 February 2026 |
 | Target | Digilent Basys 3, Xilinx Artix-7 `xc7a35tcpg236-1` |
