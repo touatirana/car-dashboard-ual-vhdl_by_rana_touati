@@ -32,7 +32,6 @@
 11. Known Limitations
 12. Future Work
 13. Recommended `.gitignore`
-14. License
 
 ---
 
@@ -552,6 +551,3 @@ The project file `*.xpr` should remain tracked (or be replaced by a project-recr
 
 ---
 
-## 14. License
-
-Specify the license of the repository here (for example MIT) and retain the author and institution information at the top of this document.
