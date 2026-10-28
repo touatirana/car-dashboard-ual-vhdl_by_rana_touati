@@ -6,7 +6,6 @@
 ![Tool](https://img.shields.io/badge/tool-Vivado%202018.2-orange)
 ![Board](https://img.shields.io/badge/board-Digilent%20Basys%203-green)
 ![FPGA](https://img.shields.io/badge/FPGA-xc7a35tcpg236--1-lightgrey)
-![Timing](https://img.shields.io/badge/timing%20%40%20100%20MHz-met-brightgreen)
 
 | | |
 |---|---|
